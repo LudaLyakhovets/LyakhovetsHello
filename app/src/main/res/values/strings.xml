@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LyakhovetsHello</string>
+    <!--changed the wording -->
+    <string name="button_hello" translatable="false">Hello, World!</string>
+</resources>
